@@ -10,6 +10,7 @@ body{
     background: linear-gradient((135deg,#eee,#ddd));
 }
 .header{
+    width:100%;
     height: 60px;
     background-color: blue;
     color: white;
