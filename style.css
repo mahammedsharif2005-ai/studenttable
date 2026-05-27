@@ -15,6 +15,7 @@ body{
     background-color: blue;
     color: white;
     display: flex;
+    align-item:center;
     justify-content: center;
 }
 table{
